@@ -11,17 +11,17 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 class Ui_adduserForm(object):
     def setupUi(self, adduserForm):
         adduserForm.setObjectName("adduserForm")
-        adduserForm.resize(295, 89)
-        adduserForm.setStyleSheet("background-color: rgb(240, 240, 240);\n"
+        adduserForm.resize(310, 92)
+        adduserForm.setStyleSheet("background-color: rgb(57, 58, 60);\n"
 "color: rgb(255, 0, 0);")
         self.add0userlabel = QtWidgets.QLabel(adduserForm)
-        self.add0userlabel.setGeometry(QtCore.QRect(18, 23, 48, 16))
+        self.add0userlabel.setGeometry(QtCore.QRect(12, 23, 51, 16))
         font = QtGui.QFont()
         font.setFamily("Bahnschrift Light SemiCondensed")
         self.add0userlabel.setFont(font)
         self.add0userlabel.setObjectName("add0userlabel")
         self.addpasswordlabel = QtWidgets.QLabel(adduserForm)
-        self.addpasswordlabel.setGeometry(QtCore.QRect(28, 53, 42, 16))
+        self.addpasswordlabel.setGeometry(QtCore.QRect(24, 53, 42, 16))
         font = QtGui.QFont()
         font.setFamily("Bahnschrift Light SemiCondensed")
         font.setBold(False)
@@ -30,31 +30,35 @@ class Ui_adduserForm(object):
         self.addpasswordlabel.setScaledContents(False)
         self.addpasswordlabel.setObjectName("addpasswordlabel")
         self.layoutWidget = QtWidgets.QWidget(adduserForm)
-        self.layoutWidget.setGeometry(QtCore.QRect(204, 19, 77, 54))
+        self.layoutWidget.setGeometry(QtCore.QRect(204, 13, 95, 65))
         self.layoutWidget.setObjectName("layoutWidget")
         self.verticalLayout_3 = QtWidgets.QVBoxLayout(self.layoutWidget)
         self.verticalLayout_3.setContentsMargins(0, 0, 0, 0)
         self.verticalLayout_3.setObjectName("verticalLayout_3")
         self.userButton = QtWidgets.QPushButton(self.layoutWidget)
+        self.userButton.setStyleSheet("background-color: rgb(68, 69, 73);")
         self.userButton.setObjectName("userButton")
         self.verticalLayout_3.addWidget(self.userButton)
         self.passwordButton = QtWidgets.QPushButton(self.layoutWidget)
+        self.passwordButton.setStyleSheet("background-color: rgb(68, 69, 73);")
         self.passwordButton.setObjectName("passwordButton")
         self.verticalLayout_3.addWidget(self.passwordButton)
         self.layoutWidget1 = QtWidgets.QWidget(adduserForm)
-        self.layoutWidget1.setGeometry(QtCore.QRect(64, 15, 135, 61))
+        self.layoutWidget1.setGeometry(QtCore.QRect(65, 15, 135, 61))
         self.layoutWidget1.setObjectName("layoutWidget1")
         self.verticalLayout = QtWidgets.QVBoxLayout(self.layoutWidget1)
         self.verticalLayout.setContentsMargins(0, 0, 0, 0)
         self.verticalLayout.setObjectName("verticalLayout")
         self.userEdit = QtWidgets.QLineEdit(self.layoutWidget1)
-        self.userEdit.setStyleSheet("color: rgb(255, 0, 255);\n"
-"background-color: rgb(255, 255, 255);")
+        self.userEdit.setStyleSheet("color: rgb(85, 255, 127);\n"
+"background-color: rgb(72, 72, 73);\n"
+"border: 1px solid rgb(100, 100, 100);")
         self.userEdit.setObjectName("userEdit")
         self.verticalLayout.addWidget(self.userEdit)
         self.passwordEdit = QtWidgets.QLineEdit(self.layoutWidget1)
-        self.passwordEdit.setStyleSheet("color: rgb(255, 0, 255);\n"
-"background-color: rgb(255, 255, 255);")
+        self.passwordEdit.setStyleSheet("color: rgb(85, 255, 127);\n"
+"background-color: rgb(72, 72, 73);\n"
+"border: 1px solid rgb(100, 100, 100);")
         self.passwordEdit.setObjectName("passwordEdit")
         self.verticalLayout.addWidget(self.passwordEdit)
 

@@ -6,7 +6,7 @@ q = queue.Queue() # Queue产生一个队列，有3种类型队列 默认用 FIFO
 threading_num = 50 # 开启50个线程
 
 # 打开字典文件，
-with open("../json提取IP域名/花椒直播域名URL.txt" , "r") as f:
+with open("ip.txt" , "r") as f:
     filedata = f.readlines()
     q.put(filedata)
     f.close() #将line传入到队列 q 中
