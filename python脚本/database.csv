@@ -1,0 +1,4 @@
+username,root
+passwd,root
+database,mysql
+sqltype,MYSQL
