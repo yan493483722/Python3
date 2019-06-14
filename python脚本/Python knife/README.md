@@ -2842,9 +2842,9 @@ Pyqt的源文件我也放在里面了，你们可以尽情修改。注释的话�
 
 qianxiao996 ----- 一名什么也不精通的白帽子。
 
-博客地址：https://me.csdn.net/qq_36374896
-
-
+博客地址：
+http://qianxiao996.cn
+http://qianxiao996.vip
 
 
 
