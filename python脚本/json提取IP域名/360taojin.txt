@@ -1,0 +1,402 @@
+[
+    {
+        "count": 14,
+        "response_ip": "",
+        "time_first": 1408357180,
+        "_source": "",
+        "rrtype": "A",
+        "rrname": "www.360taojin.com",
+        "rdata": "115.47.9.193;",
+        "time_last": 1414912452
+    },
+    {
+        "count": 304,
+        "response_ip": "",
+        "time_first": 1415346365,
+        "_source": "",
+        "rrtype": "A",
+        "rrname": "www.360taojin.com",
+        "rdata": "115.47.61.149;",
+        "time_last": 1455930719
+    },
+    {
+        "count": 62396,
+        "response_ip": "",
+        "time_first": 1456293776,
+        "_source": "",
+        "rrtype": "A",
+        "rrname": "www.360taojin.com",
+        "rdata": "106.39.221.101;",
+        "time_last": 1480396180
+    },
+    {
+        "count": 27248,
+        "response_ip": "",
+        "time_first": 1456794867,
+        "_source": "",
+        "rrtype": "A",
+        "rrname": "www.360taojin.com",
+        "rdata": "123.125.54.208;",
+        "time_last": 1480396181
+    },
+    {
+        "count": 6,
+        "response_ip": "",
+        "time_first": 1483431028,
+        "_source": "",
+        "rrtype": "A",
+        "rrname": "baoxian.360taojin.com",
+        "rdata": "123.125.54.208;",
+        "time_last": 1486525742
+    },
+    {
+        "count": 11,
+        "response_ip": "",
+        "time_first": 1491392901,
+        "_source": "",
+        "rrtype": "A",
+        "rrname": "zhongchou.360taojin.com",
+        "rdata": "123.125.54.208;",
+        "time_last": 1491392904
+    },
+    {
+        "count": 26,
+        "response_ip": "",
+        "time_first": 1491392899,
+        "_source": "",
+        "rrtype": "A",
+        "rrname": "zhongchou.360taojin.com",
+        "rdata": "106.39.221.101;",
+        "time_last": 1491392904
+    },
+    {
+        "count": 355498,
+        "response_ip": "",
+        "time_first": 1491559528,
+        "_source": "",
+        "rrtype": "A",
+        "rrname": "t.360taojin.com",
+        "rdata": "106.39.221.101;",
+        "time_last": 1501257054
+    },
+    {
+        "count": 96809,
+        "response_ip": "",
+        "time_first": 1490950239,
+        "_source": "",
+        "rrtype": "A",
+        "rrname": "dl.360taojin.com",
+        "rdata": "123.125.54.208;",
+        "time_last": 1501741304
+    },
+    {
+        "count": 126142,
+        "response_ip": "",
+        "time_first": 1490950221,
+        "_source": "",
+        "rrtype": "A",
+        "rrname": "dl.360taojin.com",
+        "rdata": "106.39.221.101;",
+        "time_last": 1501742147
+    },
+    {
+        "count": 1,
+        "response_ip": "",
+        "time_first": 1503987642,
+        "_source": "",
+        "rrtype": "A",
+        "rrname": "zhongchou.360taojin.com",
+        "rdata": "101.199.116.17;",
+        "time_last": 1503987642
+    },
+    {
+        "count": 68742,
+        "response_ip": "",
+        "time_first": 1491560115,
+        "_source": "",
+        "rrtype": "A",
+        "rrname": "t.360taojin.com",
+        "rdata": "111.13.148.101;",
+        "time_last": 1504775137
+    },
+    {
+        "count": 207772,
+        "response_ip": "",
+        "time_first": 1491559506,
+        "_source": "",
+        "rrtype": "A",
+        "rrname": "t.360taojin.com",
+        "rdata": "123.125.54.208;",
+        "time_last": 1504803934
+    },
+    {
+        "count": 108841,
+        "response_ip": "",
+        "time_first": 1501247194,
+        "_source": "",
+        "rrtype": "A",
+        "rrname": "t.360taojin.com",
+        "rdata": "101.199.116.17;",
+        "time_last": 1504806881
+    },
+    {
+        "count": 92451,
+        "response_ip": "",
+        "time_first": 1491063183,
+        "_source": "",
+        "rrtype": "CNAME",
+        "rrname": "cdn.360taojin.com",
+        "rdata": "cdn.360taojin.com.open.360cdn.cn;",
+        "time_last": 1510122074
+    },
+    {
+        "count": 870,
+        "response_ip": "",
+        "time_first": 1480464093,
+        "_source": "",
+        "rrtype": "A",
+        "rrname": "www.360taojin.com",
+        "rdata": "218.246.2.33;",
+        "time_last": 1510543600
+    },
+    {
+        "count": 7,
+        "response_ip": "",
+        "time_first": 1511326301,
+        "_source": "",
+        "rrtype": "CNAME",
+        "rrname": "cdn.360taojin.com",
+        "rdata": "cdn.360taojin.com.live.360vcloud.cOM;",
+        "time_last": 1511651110
+    },
+    {
+        "count": 4,
+        "response_ip": "",
+        "time_first": 1511323677,
+        "_source": "",
+        "rrtype": "CNAME",
+        "rrname": "cdn.360taojin.com",
+        "rdata": "cdn.360taojin.com.live.360vcloud.coM;",
+        "time_last": 1511699229
+    },
+    {
+        "count": 3,
+        "response_ip": "",
+        "time_first": 1511299899,
+        "_source": "",
+        "rrtype": "CNAME",
+        "rrname": "cdn.360taojin.com",
+        "rdata": "cdn.360taojin.com.live.360vcloud.COm;",
+        "time_last": 1511756430
+    },
+    {
+        "count": 9,
+        "response_ip": "",
+        "time_first": 1511297162,
+        "_source": "",
+        "rrtype": "CNAME",
+        "rrname": "cdn.360taojin.com",
+        "rdata": "cdn.360taojin.com.live.360vcloud.COM;",
+        "time_last": 1511756860
+    },
+    {
+        "count": 4,
+        "response_ip": "",
+        "time_first": 1511321057,
+        "_source": "",
+        "rrtype": "CNAME",
+        "rrname": "cdn.360taojin.com",
+        "rdata": "cdn.360taojin.com.live.360vcloud.cOm;",
+        "time_last": 1511840872
+    },
+    {
+        "count": 9,
+        "response_ip": "",
+        "time_first": 1511321086,
+        "_source": "",
+        "rrtype": "CNAME",
+        "rrname": "cdn.360taojin.com",
+        "rdata": "cdn.360taojin.com.live.360vcloud.Com;",
+        "time_last": 1511840877
+    },
+    {
+        "count": 6,
+        "response_ip": "",
+        "time_first": 1511321087,
+        "_source": "",
+        "rrtype": "CNAME",
+        "rrname": "cdn.360taojin.com",
+        "rdata": "cdn.360taojin.com.live.360vcloud.CoM;",
+        "time_last": 1511857371
+    },
+    {
+        "count": 76,
+        "response_ip": "",
+        "time_first": 1520825696,
+        "_source": "",
+        "rrtype": "CNAME",
+        "rrname": "m.360taojin.com",
+        "rdata": "t.360.cn;",
+        "time_last": 1534343884
+    },
+    {
+        "count": 64,
+        "response_ip": "",
+        "time_first": 1506356110,
+        "_source": "",
+        "rrtype": "CNAME",
+        "rrname": "zhongchou.360taojin.com",
+        "rdata": "t.360.cn;",
+        "time_last": 1534344326
+    },
+    {
+        "count": 14,
+        "response_ip": "",
+        "time_first": 1510627810,
+        "_source": "",
+        "rrtype": "A",
+        "rrname": "www.360taojin.com",
+        "rdata": "221.181.72.133;",
+        "time_last": 1534406723
+    },
+    {
+        "count": 294,
+        "response_ip": "",
+        "time_first": 1510627805,
+        "_source": "",
+        "rrtype": "A",
+        "rrname": "www.360taojin.com",
+        "rdata": "101.199.116.17;",
+        "time_last": 1534481397
+    },
+    {
+        "count": 31,
+        "response_ip": "",
+        "time_first": 1510627807,
+        "_source": "",
+        "rrtype": "A",
+        "rrname": "www.360taojin.com",
+        "rdata": "124.251.20.49;",
+        "time_last": 1535393805
+    },
+    {
+        "count": 166,
+        "response_ip": "",
+        "time_first": 1505279836,
+        "_source": "",
+        "rrtype": "CNAME",
+        "rrname": "baoxian.360taojin.com",
+        "rdata": "baoxian.360.cn;",
+        "time_last": 1535464994
+    },
+    {
+        "count": 1383174,
+        "response_ip": "",
+        "time_first": 1504772889,
+        "_source": "",
+        "rrtype": "CNAME",
+        "rrname": "t.360taojin.com",
+        "rdata": "t.360.cn;",
+        "time_last": 1535511781
+    },
+    {
+        "count": 80,
+        "response_ip": "",
+        "time_first": 1536158955,
+        "_source": "",
+        "rrtype": "CNAME",
+        "rrname": "m.360taojin.com",
+        "rdata": "www.360taojin.com;",
+        "time_last": 1542725322
+    },
+    {
+        "count": 79,
+        "response_ip": "",
+        "time_first": 1536159391,
+        "_source": "",
+        "rrtype": "CNAME",
+        "rrname": "zhongchou.360taojin.com",
+        "rdata": "www.360taojin.com;",
+        "time_last": 1542725757
+    },
+    {
+        "count": 556,
+        "response_ip": "",
+        "time_first": 1503577734,
+        "_source": "",
+        "rrtype": "CNAME",
+        "rrname": "vod.vcloud.360taojin.com",
+        "rdata": "vod.vcloud.360taojin.com.live.360vcloud.com;",
+        "time_last": 1542725888
+    },
+    {
+        "count": 461,
+        "response_ip": "",
+        "time_first": 1525330250,
+        "_source": "",
+        "rrtype": "CNAME",
+        "rrname": "cdnali.360taojin.com",
+        "rdata": "cdnali.360taojin.com.w.kunlunca.com;",
+        "time_last": 1542726859
+    },
+    {
+        "count": 2292,
+        "response_ip": "",
+        "time_first": 1525353582,
+        "_source": "",
+        "rrtype": "CNAME",
+        "rrname": "cdnqn.360taojin.com",
+        "rdata": "cdnqn.360taojin.com.qiniudns.com;",
+        "time_last": 1542730076
+    },
+    {
+        "count": 115,
+        "response_ip": "",
+        "time_first": 1535810610,
+        "_source": "",
+        "rrtype": "CNAME",
+        "rrname": "baoxian.360taojin.com",
+        "rdata": "www.360taojin.com;",
+        "time_last": 1542730589
+    },
+    {
+        "count": 77866,
+        "response_ip": "",
+        "time_first": 1510121584,
+        "_source": "",
+        "rrtype": "CNAME",
+        "rrname": "cdn.360taojin.com",
+        "rdata": "cdn.360taojin.com.live.360vcloud.com;",
+        "time_last": 1542998247
+    },
+    {
+        "count": 104578,
+        "response_ip": "",
+        "time_first": 1535510794,
+        "_source": "",
+        "rrtype": "CNAME",
+        "rrname": "t.360taojin.com",
+        "rdata": "www.360taojin.com;",
+        "time_last": 1543023155
+    },
+    {
+        "count": 127281,
+        "response_ip": "",
+        "time_first": 1535462445,
+        "_source": "",
+        "rrtype": "A",
+        "rrname": "www.360taojin.com",
+        "rdata": "111.206.59.111;",
+        "time_last": 1543023155
+    },
+    {
+        "count": 216210,
+        "response_ip": "",
+        "time_first": 1501742246,
+        "_source": "",
+        "rrtype": "CNAME",
+        "rrname": "dl.360taojin.com",
+        "rdata": "dai.360.cn;",
+        "time_last": 1543023412
+    }
+]
