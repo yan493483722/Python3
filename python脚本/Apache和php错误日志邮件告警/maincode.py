@@ -10,7 +10,7 @@ def sendemail(email,data,name):
     print(data)
     mail_host = "smtp.qq.com"  # 设置服务器
     mail_user = "qianxiao996@qq.com"  # 用户名
-    mail_pass = "qneiazqazyyldgjj"  # 口令
+    mail_pass = "qneiazfdsfdsfdsfsd"  # 口令
     emaillist = mail_user.split('@')
     senddata = '错误信息如下：'+"\n\n"+data+"\n"+"此条信息由系统自动发送！如有错误，敬请谅解！"
 

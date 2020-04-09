@@ -43,8 +43,8 @@ def query(path):
 
 if __name__=="__main__":
     #filepath = input('请输入json文件路径：')
-    filepath = "花椒直播域名.txt"
-    #filepath = "360taojin.txt"
+    filepath = "1.txt"
+    #filepath = "2.txt"
     data = query(filepath)
 
 
